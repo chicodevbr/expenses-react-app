@@ -1,1 +1,1 @@
-"# Expenses React App" 
+# Expenses React App
